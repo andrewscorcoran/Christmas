@@ -2,6 +2,7 @@ Cone
 ________
 - breakfast
 - marbles
+- decorations
 
 Lunch
 ________
